@@ -38,3 +38,11 @@
 .add-btn:focus {
 	outline: none;
 }
+
+.todo-items {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style: none;
+	padding: 0;
+}
